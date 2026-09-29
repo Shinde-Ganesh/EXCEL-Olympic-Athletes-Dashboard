@@ -25,8 +25,12 @@ Visual Insights:
 
 Medal Count by Year: Bar chart tracking total medals awarded over time.   
 Medal Distribution by Host City: Horizontal bar chart highlighting total medals won per host city (e.g., Tokyo, Rio de Janeiro, London, Beijing).   
+
 Age Distribution Curve: Distribution curve mapping athlete participation and medal performance by age group.   
+
 Medal Breakdown: Pie chart displaying the distribution of Gold (34%), Silver (33%), and Bronze (33%) medals.   
+
 Gender Split: 3D Pie chart indicating male (66%) vs. female (34%) medal distribution.   
+
 Season Breakdown: Donut chart representing Summer (84%) vs. Winter (16%) Olympic medals.   
 
