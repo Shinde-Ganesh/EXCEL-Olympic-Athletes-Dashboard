@@ -3,6 +3,10 @@ An interactive Excel analytics dashboard and cleaned dataset exploring historica
 
 This project provides an end-to-end analysis of historical Olympic Games data. It includes a cleaned dataset containing athlete demographics, participating countries, hosting cities, and medal tallies, alongside an interactive Excel Dashboard that enables dynamic filtering and breakdown of Olympic achievements.
 
+**Dashboard Screenshot**
+
+<img width="1741" height="601" alt="Dashboard Olympic Athletes " src="https://github.com/user-attachments/assets/b7a0d8f9-86e0-40bd-8d2d-73f92dc9fb07" />
+
 **Key KPIs & Metrics Summary**
 
 Total Athletes Analyzed: 20,732   
